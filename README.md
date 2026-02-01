@@ -151,9 +151,9 @@ Twitter_sentiment_Analysis_NLP/
 ├── notebooks/
 │   ├── 1_EDA.ipynb
 │   ├── 2_preprocessing.ipynb
-│   ├── 3_tokenization_test.ipynb
-│   ├── 4_train_bert.ipynb
-│   ├── 5_train_roberta.ipynb
+│   ├── 3_tokenization.ipynb
+│   ├── 4_train_BERT.ipynb
+│   ├── 5_train_roBERTa.ipynb
 │   ├── 6_optuna_tuning.ipynb
 │   ├── 7_final_best_model.ipynb
 │   └── 8_ner_extraction.ipynb
